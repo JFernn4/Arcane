@@ -1,7 +1,9 @@
 # Arcane
  ## ¿Por qué me gusta esta serie?
  Esta serie me gusta principalmente por su corta duración y su poca cantidad de episodios, ya que no soy muy fan de las series y prefiero ver una serie corta y que sé que me va a gustar. También me gusta la serie porque está basada en uno de los videojuegos que más he jugado, League of Legends.
- ![Imagen de la serie] (https://i.blogs.es/80135d/arcane-final-poster-16x9-no-text-no-border/1366_521.jpeg)
+![Imagen de la serie.](https://i.blogs.es/80135d/arcane-final-poster-16x9-no-text-no-border/1366_521.jpeg)
+
+
  Me gusta que por medio de la serie se puede conocer un poco más de la historia de los personajes, ya que se expande mucho la información que tenemos en el juego. :computer:	
  ## Personajes favoritos
  1. Jayce
